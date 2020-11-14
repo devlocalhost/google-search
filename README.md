@@ -13,4 +13,8 @@ a script to get google search on your console/terminal easily
 * run main.py file
 
 # NOTE
-this script requires (probably) python3.5 or 3.6!
+this script requires (probably) python3.5 or 3.6! (works on mobiles, tested with pydroid version 3.8.0)
+
+# have an question?
+add me on discord: **.dev64#3346**
+
